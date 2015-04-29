@@ -4,6 +4,21 @@ Ett exempel på en applikation som kan hantera entiteten:program
 ## Installera
 Projektet använder YeoMan, du kan köra alla NPM kommandon samt grunt serve när du vill deploya.
 
+
+Kör dessa: 
+
+git clone [this repo]
+
+npm install
+
+bower install
+
+grunt serve
+
+
+
+
+
 Just nu är applikationen konfigurerad för att köra en localhost MySQL med db-namn: mtgx samt tabell: program..
 Du kan när som helst ändra detta i server/api/program/program.controller.js i objektet var pool..
 
