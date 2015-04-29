@@ -17,10 +17,10 @@ grunt serve
 
 
 
-
-
 Just nu är applikationen konfigurerad för att köra en localhost MySQL med db-namn: mtgx samt tabell: program..
 Du kan när som helst ändra detta i server/api/program/program.controller.js i objektet var pool..
+
+I detta repo finner du en sql dump, mysqlSchemaDump.sql, som du kan använda dig utav.
 
 ## Användning
 
